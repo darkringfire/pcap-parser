@@ -1,3 +1,6 @@
 /venv/
+/.idea/
 !/pcap/dir.md
-/pcap*/*
+/pcap*/
+/log.txt
+/out.csv
